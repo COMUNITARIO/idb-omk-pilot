@@ -1,7 +1,10 @@
+*This repository was originally created and published for the Inter-American Development Bank (IDB) and hosted at https://web.archive.org/web/20230721122528/https://github.com/EL-BID/idb-omk-pilot. As the IDB no longer maintains the repo as public, it is now hosted here for preservation with limited maintenance.*
+
+
 <img align="right" height="39" src="https://github.com/EL-BID/idb-omk-pilot/blob/master/img/azavea_logo.png"><img align="right" width="115" height="49" src="https://github.com/EL-BID/idb-omk-pilot/blob/master/img/IDB_logo.jpg">
 
 
-## IDB OpenMapKit Pilot 
+## IDB OpenMapKit Pilot
 ![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
 ![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/idb-omk-pilot/readme&dt=&tid=UA-4677001-16)
 ### Description and Context
