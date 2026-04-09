@@ -1,5 +1,5 @@
 > [!NOTE]
-> *This repository was originally created and published for the Inter-American Development Bank (IDB) and hosted at [https://github.com/EL-BID/idb-omk-pilot](https://web.archive.org/web/20230721122528/https://github.com/EL-BID/idb-omk-pilot). As the IDB no longer maintains the repo as public, it is now hosted here for preservation with limited maintenance.*
+> *This repository was originally created and published for the Inter-American Development Bank (IDB) and hosted at [https://github.com/EL-BID/idb-omk-pilot](https://web.archive.org/web/20230721122528/https://github.com/EL-BID/idb-omk-pilot). As the IDB no longer maintains the repo as public, it is now hosted here for preservation with limited maintenance. Related documentation can be found [here](https://web.archive.org/web/20230722085809/https://code.iadb.org/en/tools/openmapkit)*
 
 <br>
 
